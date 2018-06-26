@@ -18,7 +18,7 @@ function inc(n) {
   return n+=n;
 }
 
-function decrement(n) {
+function dec(n) {
   return n-=n;
 }
 
@@ -26,4 +26,3 @@ function makeInt(n) {
   return parseInt(n, 10);
 }
 
-function 
